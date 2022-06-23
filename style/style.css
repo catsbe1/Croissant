@@ -1,5 +1,5 @@
 body {
-  background-color: palegoldenrod;
+  background-color: palegoldenrod !important;
 }
 
 h1 {
@@ -19,12 +19,4 @@ p {
 img {
   display: block;
   margin: 0 auto;
-}
-a {
-  color: black;
-}
-.links {
-  display: flex;
-  justify-content: space-evenly;
-  margin-top: 200px;
 }
